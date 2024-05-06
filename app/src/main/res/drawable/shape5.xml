@@ -1,0 +1,16 @@
+<!-- rounded_yellow_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Nền màu vàng -->
+    <solid android:color="#7E6363" />
+
+    <!-- Viền đen -->
+    <stroke
+        android:width="4dp"
+        android:color="#000000" />
+
+    <!-- Bo tròn góc -->
+    <corners android:radius="8dp" />
+
+</shape>

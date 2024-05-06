@@ -1,0 +1,5 @@
+<!-- res/drawable/rounded_black_rect.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#000000" /> <!-- Màu đen -->
+    <corners android:radius="10dp" /> <!-- Đặt bán kính để bo tròn góc -->
+</shape>
